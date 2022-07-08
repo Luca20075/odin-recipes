@@ -1,3 +1,3 @@
 # odin-recipes
 
-A simple webpage made during the foundations course on the Odin Project.
+A simple webpage made during the foundations course on the Odin Project, only using HTML.
